@@ -1,2 +1,4 @@
 # Basics-Of-Programming
-In this repository I will publish information on learning the basics of programming for beginners
+
+
+1. [Введение в программирование с нуля](https://github.com/Barsuchek/Basics-Of-Programming/blob/main/Info/Введение.md)
